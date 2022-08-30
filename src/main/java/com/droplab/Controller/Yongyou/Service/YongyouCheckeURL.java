@@ -69,7 +69,6 @@ public class YongyouCheckeURL extends BugService {
         urlLists.add("/servlet/~ic/nc.document.pub.fileSystem.servlet.DeleteServlet");
         urlLists.add("/servlet/~ic/com.ufida.zior.console.ActionHandlerServlet");
         urlLists.add("/ServiceDispatcherServlet");
-        urlLists.add("/fs/update/DownloadServlet");
         urlLists.add("/servlet/~ic/bsh.servlet.BshServlet");
         urlLists.add("/servlet/~ic/ShowAlertFileServlet");
         return urlLists;
